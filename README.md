@@ -14,7 +14,8 @@ This project is created with:
 * Database: SQLite3
 
 ## Setup
-To run this project, install it locally using pip and start app.py using uvicorn:
+To run this project, install it locally using pip and start app.py using uvicorn.
+A database file named test.db will be created to store customer information.
 
 ```
 pip install -r requirements.txt
